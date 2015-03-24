@@ -1,4 +1,4 @@
-package com.abewy.backpack;
+package com.abewy.widget.backpack;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -7,6 +7,7 @@ import android.graphics.PorterDuff;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
+import com.abewy.backpack.R;
 
 public class TintableImageView extends ImageView
 {
