@@ -3,4 +3,8 @@
     <declare-styleable name="TintableImageView">
         <attr name="tint" format="reference|color" />
     </declare-styleable>
+
+    <declare-styleable name="MaxWidthLinearLayout">
+        <attr name="layout_maxWidth" format="dimension" />
+    </declare-styleable>
 </resources>
