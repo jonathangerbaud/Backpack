@@ -1,4 +1,4 @@
-package com.abewy.widget.backpack;
+package com.abewy.backpack.widget;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
